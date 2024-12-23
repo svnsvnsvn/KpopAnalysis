@@ -87,11 +87,6 @@ Detailed outcomes, predictive models, and visualizations are documented in the n
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 - The K-pop fandom community for curating invaluable datasets.
 - Open-source tools like Pandas, Matplotlib, and Scikit-learn for enabling robust analysis.
